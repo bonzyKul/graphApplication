@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "5817382F7A92019CB57CC5D53356C34102A2E1AB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "5817382F7A92019CB57CC5D53356C34102A2E1AB" : 0,
+    "8B3D884E5CB77CFCF2CE65E14C999AAC1DC843A5" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E41168E1-5A1B-4357-81FA-606B565376AB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "5817382F7A92019CB57CC5D53356C34102A2E1AB" : "graphApplication\/",
+    "8B3D884E5CB77CFCF2CE65E14C999AAC1DC843A5" : "cordovaMac\/core-plot\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "graphApplication",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "graphApplication.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/bonzyKul\/graphApplication.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5817382F7A92019CB57CC5D53356C34102A2E1AB"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/core-plot\/core-plot.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8B3D884E5CB77CFCF2CE65E14C999AAC1DC843A5"
+    }
+  ]
+}
